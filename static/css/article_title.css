@@ -1,0 +1,29 @@
+.article_title {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1;
+    }
+    
+.article_title h2 {
+    
+    font-size: 48px;
+    font-weight: normal;
+    margin: 10px;
+    }
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+.testo {
+    font-family: 'Overpass Mono';
+    font-size: 22px;
+    line-height: 24px;
+    text-align: center;
+
+}
